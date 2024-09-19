@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+06cb58a30b54e23a7c67b3ff5ce448bc CMakeFiles/obuchaika_autogen
